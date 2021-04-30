@@ -1,0 +1,1 @@
+import{o as e,c as r,d as a}from"./app.42ac3ba6.js";const t='{"title":"文档模板","description":"","frontmatter":{},"headers":[{"level":2,"title":"文档路径","slug":"文档路径"}],"relativePath":"code/index.md","lastUpdated":1618990978000}',i={},s=a('',3);i.render=function(a,t,i,d,l,n){return e(),r("div",null,[s])};export default i;export{t as __pageData};
